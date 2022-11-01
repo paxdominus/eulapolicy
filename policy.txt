@@ -8,7 +8,7 @@ Anyone with the know-how can use the app quite easily.
 
 User Data
 
-Data stored by the users is stored by the users in their device locally always.
+Data stored by the users is stored by the users on their devices locally always.
 
 Ads 
 
