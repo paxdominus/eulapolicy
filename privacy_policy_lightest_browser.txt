@@ -14,7 +14,6 @@ Anyone with the know-how can use the app quite easily.
 
 User Data
 
-User Data is not stored.
 
 User Identification data is used to serve personalised ads
 
