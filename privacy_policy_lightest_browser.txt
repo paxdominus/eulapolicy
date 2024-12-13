@@ -16,6 +16,8 @@ User Data
 
 User Data is not stored.
 
+User Identification data is used to serve personalised ads
+
 Ads 
 
 Ads are served and analytics are collected anonymously through google analytics          
