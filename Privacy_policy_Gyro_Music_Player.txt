@@ -14,4 +14,4 @@ Anyone with the know-how can use the app quite easily.
 
 User Data
 
-User Data is not processed.
+User Data is processed for ad analysis.
